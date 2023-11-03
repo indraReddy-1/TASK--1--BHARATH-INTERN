@@ -1,5 +1,3 @@
-# TASK--1--BHARATH-INTERN
-TASK 1-CALCULATOR APP
 <!DOCTYPE html>
 <html>
 <head>
